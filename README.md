@@ -1,4 +1,5 @@
 ### Hello!
+I am a current sophomore at Wellesley College majoring in Computer Science with a minor in Music, interested in exploring tech's impact and intersectionality with other topics such as education to drive social change.
 
 <!--
 **erikarchenn/erikarchenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
